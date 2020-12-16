@@ -1,7 +1,6 @@
 # hook_rent
 
-A new Flutter project.
-
+好客租房，此项目里面有大量组件封装，非常值得学习，学习步骤，请参考"步骤.md"
 ## Getting Started
 
 This project is a starting point for a Flutter application.
